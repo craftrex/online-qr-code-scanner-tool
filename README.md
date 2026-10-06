@@ -1,0 +1,1 @@
+# online-qr-code-scanner-tool
